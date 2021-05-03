@@ -26,7 +26,7 @@ void main()
 
 	while (1)
 	{
-		printf("Amit 312416472 & ziv 311516207 Project ");
+
 		printf("choose a program:\n");
 		printf("1- exercise 1\n");
 		printf("2- exercise 2\n");
